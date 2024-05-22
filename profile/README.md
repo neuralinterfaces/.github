@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://neuralinterfaces.com"><img src="../assets/logo_dark.png" width="250"></a>
+<a href="https://neuralinterfaces.com"><img src="https://avatars.githubusercontent.com/u/168868350?size=250"></a>
 </p>
 
 # Brain-Computer Interfaces for Everyone 🧠
