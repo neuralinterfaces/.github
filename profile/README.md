@@ -4,7 +4,7 @@
 
 # Brain-Computer Interfaces with Everyone 🧠
 
-[Neural Interfaces](https://neuralinterfaces.com) develops open-source software for authoring brain-computer interfaces (BCIs) on web technologies, allowing developers to publish across multiple platforms. 
+[Neural Interfaces](https://neuralinterfaces.com) maintains open-source tools for authoring brain-computer interfaces (BCIs) on web technologies, allowing developers to publish across multiple platforms. 
 
 We believe that brain-computer interfaces should be accessible to everyone.
 
