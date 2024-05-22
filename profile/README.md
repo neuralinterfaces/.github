@@ -2,7 +2,7 @@
 <a href="https://neuralinterfaces.com"><img src="https://avatars.githubusercontent.com/u/168868350?size=250"></a>
 </p>
 
-# Brain-Computer Interfaces for Everyone 🧠
+# Developing Brain-Computer Interfaces with Everyone 🧠
 
 [Neural Interfaces](https://neuralinterfaces.com) develops open-source software for authoring brain-computer interfaces (BCIs) on web technologies, allowing developers to publish across multiple platforms. 
 
