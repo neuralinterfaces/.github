@@ -9,7 +9,7 @@
 We believe that brain-computer interfaces should be accessible to everyone.
 
 ## Key Projects
-- [Brains@Play](https://github.com/neuralinterfaces/brainsatplay): A multi-platform application for distributing brain-controlled experiences + an API for accessing neural data across platforms.
+- [Brains@Play](https://github.com/neuralinterfaces/brainsatplay): A multi-platform application for distributing brain-responsive experiences + an API for accessing neural data across platforms.
 - [Commoners](https://github.com/neuralinterfaces/commoners): A domain-agnostic build tool for authoring multi-platform applications.
 
 ## How Do I Contribute?
