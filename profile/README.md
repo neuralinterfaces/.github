@@ -13,4 +13,4 @@ We believe that brain-computer interfaces should be accessible to everyone.
 - [Commoners](https://github.com/neuralinterfaces/commoners): A domain-agnostic build tool for authoring multi-platform applications.
 
 ## How Do I Contribute?
-If you'd like to contribute to this project, hop into whichever repository you feel most aligned with and submit your first pull request! Our process is still relatively informal, so don't hesitate to reach out to [garrettmflynn@gmail.com](mailto:garrettmflynn@gmail.com) to collaborate.
+If you'd like to contribute to this project, hop into whichever repository you feel most aligned with and submit your first pull request! Our process is still relatively informal, so feel free to schedule a time to chat on [Calendly](https://calendly.com/garrettmflynn).
