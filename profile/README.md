@@ -2,7 +2,7 @@
 <a href="https://neuralinterfaces.com"><img src="https://github.com/neuralinterfaces/.github/blob/6700031/assets/logo_dark.png?raw=true" height="250"></a>
 </p>
 
-# Brain-Computer Interfaces with Everyone 🧠
+# Brain-Computer Interfaces for the Rest of Us 🧠
 > **Neural interfaces** (noun) — Devices that interact with the nervous system. They are electronic devices placed on the outside or inside of the brain or nervous system to record or stimulate activity – or both. (Source: [The Royal Society](https://royalsociety.org/news-resources/projects/ihuman-perspective/))
 
 
