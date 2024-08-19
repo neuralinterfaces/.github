@@ -6,7 +6,7 @@
 > **Neural interfaces** (noun) — Devices that interact with the nervous system. They are electronic devices placed on the outside or inside of the brain or nervous system to record or stimulate activity – or both. (Source: [The Royal Society](https://royalsociety.org/news-resources/projects/ihuman-perspective/))
 
 
-[Neural Interfaces](https://neuralinterfaces.com) maintains open-source tools for authoring brain-computer interfaces (BCIs) on web technologies, allowing developers to publish across multiple platforms. 
+[Neural Interfaces](https://neuralinterfaces.com) maintains tools to build brain-computer interfaces (BCIs) on web technologies, allowing you to publish across multiple platforms.
 
 We believe that brain-computer interfaces should be accessible to everyone.
 
