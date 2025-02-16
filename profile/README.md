@@ -11,7 +11,7 @@
 We believe that brain-computer interfaces should be accessible to everyone.
 
 ## Key Projects
-- [Brains@Play](https://github.com/neuralinterfaces/brainsatplay): A multi-platform application for distributing brain-responsive applications + an API for accessing neural data across platforms.
+- [Neurosys](https://github.com/neuralinterfaces/neurosys): A desktop application for system-level neurofeedback.
 - [Commoners](https://github.com/neuralinterfaces/commoners): A domain-agnostic build tool for authoring multi-platform applications.
 
 ## How Do I Contribute?
