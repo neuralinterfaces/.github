@@ -12,7 +12,7 @@ We believe that brain-computer interfaces should be accessible to everyone.
 
 ## Key Projects
 - [Neurosys](https://github.com/neuralinterfaces/neurosys): A system overlay for providing neurofeedback.
-- [Commoners](https://github.com/neuralinterfaces/commoners): A domain-agnostic build tool for authoring multi-platform applications.
+- [Commoners](https://github.com/neuralinterfaces/commoners): A build tool for authoring multi-platform applications.
 
 ## How Do I Contribute?
 If you'd like to contribute to this project, we encourage you to determine which project you're most aligned with and submit your first pull request! 
