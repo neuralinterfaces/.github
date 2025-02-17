@@ -2,7 +2,7 @@
 <a href="https://neuralinterfaces.com"><img src="https://github.com/neuralinterfaces/.github/blob/6700031/assets/logo_dark.png?raw=true" height="250"></a>
 </p>
 
-# Brain-Computer Interfaces for the Rest of Us 🧠
+# Brain-Responsive Apps for the Masses 🧠
 > **Neural interfaces** (noun) — Devices that interact with the nervous system. They are electronic devices placed on the outside or inside of the brain or nervous system to record or stimulate activity – or both. (Source: [The Royal Society](https://royalsociety.org/news-resources/projects/ihuman-perspective/))
 
 
@@ -11,7 +11,7 @@
 We believe that brain-computer interfaces should be accessible to everyone.
 
 ## Key Projects
-- [Neurosys](https://github.com/neuralinterfaces/neurosys): A desktop application for system-level neurofeedback.
+- [Neurosys](https://github.com/neuralinterfaces/neurosys): A system overlay for providing neurofeedback.
 - [Commoners](https://github.com/neuralinterfaces/commoners): A domain-agnostic build tool for authoring multi-platform applications.
 
 ## How Do I Contribute?
