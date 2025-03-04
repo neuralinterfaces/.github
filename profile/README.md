@@ -11,7 +11,7 @@
 We believe that brain-computer interfaces should be accessible to everyone.
 
 ## Key Projects
-- [Neurosys](https://github.com/neuralinterfaces/neurosys): A system overlay for providing neurofeedback.
+- [Neurosys SDK](https://github.com/neuralinterfaces/neurosys): An SDK for providing system-level neurofeedback.
 - [Commoners](https://github.com/neuralinterfaces/commoners): A build tool for authoring multi-platform applications.
 
 ## How Do I Contribute?
